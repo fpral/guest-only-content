@@ -18,8 +18,8 @@
     <description>Module providing an option to hide a content for authenticated users.</description>
 
     <scm>
-        <connection>scm:dummy:uri</connection>
-        <developerConnection>scm:dummy:uri</developerConnection>
+        <connection>scm:git:git@github.com:fpral/guest-only-content.git</connection>
+        <developerConnection>scm:git:git@github.com:fpral/guest-only-content.git</developerConnection>
     </scm>
 
     <repositories>
