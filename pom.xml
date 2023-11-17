@@ -12,7 +12,7 @@
     </parent>
     <groupId>org.foo.modules</groupId>
     <artifactId>guest-only-content</artifactId>
-    <name>guest-only-content</name>
+    <name>Guest Only Content</name>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>bundle</packaging>
     <description>Module providing an option to hide a content for authenticated users.</description>
@@ -45,7 +45,7 @@
                 <extensions>true</extensions>
                 <configuration>
                     <instructions>
-                        <Jahia-Depends>default</Jahia-Depends>
+                        <_dsannotations>*</_dsannotations>
                     </instructions>
                 </configuration>
             </plugin>
